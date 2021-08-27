@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938365161214",
+    "project_id": "online-store-app-12c4f",
+    "storage_bucket": "online-store-app-12c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938365161214:android:fefee9198163f946189faf",
+        "android_client_info": {
+          "package_name": "com.pravakar.onlinestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938365161214-ospammpuodrai0bpq75pk2ns8g9ip98n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA2MEFD_p1wWMgx6r4wAgkcpCZVUaVCSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938365161214-ospammpuodrai0bpq75pk2ns8g9ip98n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
